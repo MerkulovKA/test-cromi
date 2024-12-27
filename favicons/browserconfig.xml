@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/test-cromi/mstile-150x150.png"/test-cromi/>
+            <square150x150logo src="https://merkulovka.github.io/test-cromi/mstile-150x150.png"https://merkulovka.github.io/test-cromi/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>

@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg">
     <defs>
         <symbol id="search" viewBox="0 0 40 40" fill="none">
-            <circle cx="18" cy="18" r="9" stroke="currentColor" stroke-width="2"/test-cromi/>
-            <path d="M25 25L32 32" stroke="currentColor" stroke-width="2"/test-cromi/>
+            <circle cx="18" cy="18" r="9" stroke="currentColor" stroke-width="2"https://merkulovka.github.io/test-cromi/>
+            <path d="M25 25L32 32" stroke="currentColor" stroke-width="2"https://merkulovka.github.io/test-cromi/>
         </symbol>
 
         <symbol id="burger" viewBox="0 0 40 40" fill="none">
-            <path d="M8 11H32" stroke="currentColor" stroke-width="2"/test-cromi/>
-            <path d="M8 20H32" stroke="currentColor" stroke-width="2"/test-cromi/>
-            <path d="M8 29H32" stroke="currentColor" stroke-width="2"/test-cromi/>
+            <path d="M8 11H32" stroke="currentColor" stroke-width="2"https://merkulovka.github.io/test-cromi/>
+            <path d="M8 20H32" stroke="currentColor" stroke-width="2"https://merkulovka.github.io/test-cromi/>
+            <path d="M8 29H32" stroke="currentColor" stroke-width="2"https://merkulovka.github.io/test-cromi/>
         </symbol>
         <symbol id="arrow" viewBox="0 0 24 24" fill="none" >
-            <path d="M3 12L21 12M21 12L16.2632 17M21 12L16.2632 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/test-cromi/>
+            <path d="M3 12L21 12M21 12L16.2632 17M21 12L16.2632 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"https://merkulovka.github.io/test-cromi/>
         </symbol>
         <symbol id="chevron-down" viewBox="0 0 11 7" fill="none">
-            <path d="M1 2L5.5 6L10 2" stroke="currentColor"/test-cromi/>
+            <path d="M1 2L5.5 6L10 2" stroke="currentColor"https://merkulovka.github.io/test-cromi/>
         </symbol>
 
     </defs>
