@@ -1,0 +1,1 @@
+import{e as t,c as n,a as s,o}from"./L90-E_ZQ.js";const r={"aria-hidden":"true",width:"24",height:"24"},a=["xlink:href"],h=t({__name:"AtomIcon",props:{name:{type:String,required:!0}},setup(e){return(c,i)=>(o(),n("svg",r,[s("use",{"xlink:href":`/assets/svg/icon.svg?2#${e.name}`},null,8,a)]))}});export{h as _};
